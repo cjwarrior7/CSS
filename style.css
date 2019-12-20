@@ -1,0 +1,28 @@
+*{ 
+    color: darkred;
+}
+body{
+    margin-top: 180px;
+}
+p{
+    font-size: 30px;
+}
+div{
+    margin-left: 30px;
+}
+/* when you are writing it means you are trying to locate id */
+#p2{
+   font-family: 'Courier New';
+}
+#p3{
+    color:darkviolet
+}
+#p4{
+   margin-left: 20px;
+}
+.osmpara{
+    background-color: lightpink;
+}
+.bigpara{
+    font-size: 50px;
+}
