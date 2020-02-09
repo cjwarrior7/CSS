@@ -1,0 +1,22 @@
+*{ 
+    background-color: lime;
+}
+.cl1{
+    background-color: mediumaquamarine;
+}
+#id1{
+background-color:violet
+}
+div{
+    background-color: azure;
+}
+#id3{
+    background-color:crimson
+    }
+/* id take precedence over class and class take precendence over * */
+/* id>class>element>* */
+/* 
+* means apply to all
+div p applies to all that type of element
+.abc applies to class abc
+#xyz applies to id xyz */
